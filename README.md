@@ -8,7 +8,7 @@ Hello, I'm Rashaun Bennett, known as [@bird556](https://github.com/bird556) on G
 - 📚 I'm a Seneca student with a strong academic record, boasting a GPA of 3.7.
 
 ## Technical Skills
-### Backend: Oracle SQL, C, C++
+### Backend: #### Oracle SQL, C, C++
 ### Frontend: React, Next.js, JavaScript
 ### Tools: Git, npm, Webpack
 
