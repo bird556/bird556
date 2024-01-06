@@ -3,7 +3,7 @@
 Hello, I'm Rashaun Bennett, known as [@bird556](https://github.com/bird556) on GitHub. Thank you for visiting my profile! I'm passionate about Front End Web Development, and I'm dedicated to honing my skills in these areas.
 
 ## About Me
-- 🔭 I'm currently focused on mastering Front End Web Development and iOS development.
+- 🔭 I'm currently focused on mastering Web Development.
 - 🌱 As of 2022, I'm actively learning and expanding my knowledge in Computer Science.
 - 📚 I'm a Seneca student with a strong academic record, boasting a GPA of 3.7.
 
