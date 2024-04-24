@@ -8,8 +8,12 @@ Hello, I'm Rashaun Bennett, known as [@bird556](https://github.com/bird556) on G
 - 📚 I'm a Seneca student with a strong academic record, boasting a GPA of 3.7.
 
 ## Technical Skills
-- Backend: Oracle SQL, C, C++
+- Backend: MongoDB 🍃, Node.js 🚀, Express.js ⚡, PostgreSQL 🐘
 - Frontend: React, Next.js, JavaScript
+- Frontend Styling: Tailwind CSS & DaisyUI 🎨, SASS, Chakra UI
+- Languages: JavaScript 🔧, C, C++
+- Database Management: Sequelize for PostgreSQL 🗃️
+- Templating: EJS (Embedded JavaScript) 🖥️
 - Tools: Git, npm, Webpack
 
 ## Collaboration
@@ -21,7 +25,7 @@ I'm open to collaborating on exciting projects. Whether it's web development, iO
 - C Programming For Beginners - Master the C Language 2023
 
 ## Get in Touch
-- 📫 You can reach me via email at: [rashaunbennett1017@gmail.com](mailto:rashaunbennett1017@gmail.com)
+- 📫 You can reach me via email at: [rbennett17@myseneca.ca](mailto:rbennett17@myseneca.ca)
 
 Feel free to explore my repositories and projects. Your feedback and contributions are always welcome! 😊
 
